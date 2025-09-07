@@ -1,7 +1,7 @@
 
 //Print Palindrome words from the given array
 
-package consumer;
+package consumer_With_forEach;
 
 import java.util.Arrays;
 import java.util.List;
