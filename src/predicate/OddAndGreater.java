@@ -5,7 +5,7 @@ package predicate;
 
 import java.util.function.Predicate;
 
-public class OddOrGreater {
+public class OddAndGreater {
 
 	public static void main(String[] args) {
 		int[] arr= {2,5,19,10,13,4,6};
